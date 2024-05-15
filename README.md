@@ -7,3 +7,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Vue.js and React.js
 - 🌱 I’m currently learning Angular.js
 - 📫 How to reach me: [t.me//navruz_web](https://t.me//navruz_web)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=navruzbek199)](https://github.com/anuraghazra/github-readme-stats)
