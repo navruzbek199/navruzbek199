@@ -6,4 +6,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Vue.js and React.js
 - 🌱 I’m currently learning Angular.js
-- 📫 How to reach me: t.me//navruz_web
+- 📫 How to reach me: [t.me//navruz_web](https://t.me//navruz_web)
