@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=navruzbek199&show_icons=true&theme=transparent)
 
-![snake animation](https://github.com/<seu navruzbek199>/<seu navruzbek199>/blob/output/github-contribution-grid-snake2.svg)
